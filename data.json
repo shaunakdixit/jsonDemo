@@ -2,5 +2,11 @@
   "name": "Shaunak Dixit",
   "profession": "Software Engineer",
   "experience": "4 years",
-  "skills": ["Backend Development", "Database Design", "API Development", "Java", "Python"]
+  "skills": [
+    {"name": "Backend Development", "yearsOfExperience": 4},
+    {"name": "Database Design", "yearsOfExperience": 3},
+    {"name": "API Development", "yearsOfExperience": 2},
+    {"name": "Java", "yearsOfExperience": 4},
+    {"name": "Python", "yearsOfExperience": 3}
+  ]
 }
